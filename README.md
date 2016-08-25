@@ -33,3 +33,5 @@ Pseudocódigo para la suma de dos números mediante JavaScript.
 6. Sumar num1 y num2.
 7. Imprimir resultado.
 8. FIN
+
+![alt](http://i67.tinypic.com/6dtnro.jpg)
